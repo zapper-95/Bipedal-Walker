@@ -10,12 +10,12 @@ For this coursework I received 86/100.
 
 ## Normal (Episode 1,400)
 <p align="center">
-  <img src="./jbtl68-agent-video,episode=1400,score=332.gif" width="300" />
+  <img src="./jbtl68-agent-video,episode=1400,score=332.gif" width="600" />
 </p>
 
 ## Hardcore (Episode 1,300)
 <p align="center">
-  <img src="./jbtl68-agent-hardcore-video,episode=1300,score=302.gif" width="300"/>
+  <img src="./jbtl68-agent-hardcore-video,episode=1300,score=302.gif" width="600"/>
 </p>
 
 [1] Baturay Saglam et al. “Actor prioritized experience replay”. In: Journal of Artificial Intelligence Research 78 (2023), pp. 639–672.
